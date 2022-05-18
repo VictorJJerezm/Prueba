@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1652842498 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1652842498 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\ingreso.h
+
+1652847855 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\menus.cpp
+	"menus.h"
+	"conceptos.h"
+	"impuestos.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652844211 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\menus.h
+
+1652844087 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652845042 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\conceptos.cpp
+	"conceptos.h"
+	"menus.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652844901 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\conceptos.h
+
+1652846408 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652847445 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\impuestos.h
+	<iostream>
+
