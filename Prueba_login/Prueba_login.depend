@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652838010 source:c:\users\vjere\proyectos\pruebaspf\prueba_login\src\login.cpp
+	"login.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1652297417 c:\users\vjere\proyectos\pruebaspf\prueba_login\include\login.h
+
+1652839426 source:c:\users\vjere\proyectos\pruebaspf\prueba_login\main.cpp
+	<iostream>
+	<fstream>
+	"login.h"
+	"impuestos.h"
+	<iomanip>
+	<cstdlib>
+
+1652309960 source:c:\users\vjere\proyectos\pruebaspf\prueba_login\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652309960 c:\users\vjere\proyectos\pruebaspf\prueba_login\include\impuestos.h
+	<iostream>
+
